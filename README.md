@@ -21,7 +21,7 @@
   <br>
   💻 I love to learn new technologies and technologies.
   <br>
-  🧑‍💼 I’m currently Studing Embedded Systems.
+  🧑‍💼 I’m currently Embedded Systems, AUTORSAR, Modern C++ ,DataStructures And Algorithms
   <br>
 </p>
 
@@ -42,14 +42,6 @@
     <img src="https://skillicons.dev/icons?i=visualstudio,github,githubactions,linux,vscode" />
 
   </a>
-</p>
-<h2 align="left"> ⌛ Learning ⌛ </h2>
-<br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,googlecloud" />
-  </a>
-</p>
 <hr>
 
 <!--
