@@ -7,7 +7,7 @@
 
 
 <h1 align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=800&size=60&duration=700&pause=500&multiline=true&repeat=false&random=false&width=4000&height=250&lines=As+a+dedicated+software+engineer.+I+thrive+on+creating+impactful+technologies,+that+blend+innovation+with+quality.;+My+passion+lies+in+pushing+the+boundaries+of+what's+possible%2C+and+I+eagerly+embrace+the+latest+advancements+in+technology+;to+contribute+to+the+progress+of+our+world." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=800&size=60&duration=1000&pause=500&multiline=true&repeat=false&random=false&width=4000&height=300&lines=As+a+dedicated+software+engineer.+;I+thrive+on+creating+impactful+technologies,+that+blend+innovation+with+quality.;+My+passion+lies+in+pushing+the+boundaries+of+what's+possible%2C+and+I+eagerly+embrace+the+latest+advancements+in+technology+;to+contribute+to+the+progress+of+our+world." alt="Typing SVG" /></a>
   </a>
 </h1>
 
