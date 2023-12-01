@@ -19,7 +19,7 @@
   <br>
   🎓 Graduated from <a href="https://www.daiict.ac.in/"> ASU </a>
   <br>
-  💻 I love to learn new technologies and technologies.
+  💻 I love to learn about new technologies and try it.
   <br>
   🧑‍💼 I’m currently Embedded Systems, AUTORSAR, Modern C++ ,DataStructures And Algorithms
   <br>
