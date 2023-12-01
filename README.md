@@ -21,7 +21,7 @@
   <br>
   💻 I love to learn about new technologies and try it.
   <br>
-  🧑‍💼 I’m currently Embedded Systems, AUTORSAR, Modern C++ ,DataStructures And Algorithms
+  🧑‍💼 I’m currently Embedded Systems, AUTORSAR, Modern Cpp ,Datastructures And Algorithms
   <br>
 </p>
 
