@@ -6,3 +6,4 @@
 </div>
 
 
+![snake gif](https://github.com/abdallahkhairy/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
