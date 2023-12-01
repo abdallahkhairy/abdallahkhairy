@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">
+<h1 align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=800&size=60&duration=700&pause=500&multiline=true&random=false&width=2500&height=500&lines=As+a+dedicated+software+engineer%2C;+I+thrive+on+creating+impactful+technologies+;that+blend+innovation+with+quality.+;My+passion+lies+in+pushing+the+boundaries+of+;what's+possible%2C++and+I+eagerly+embrace+;the+latest+advancements+in+technology+;to+contribute+to+the+progress+of+our+world." alt="Typing SVG" /></a>
   </a>
 </h1>
@@ -34,18 +34,18 @@
 </div>
 
 <hr>
-<h2 align="center">🔥 Languages-Tools 🔥</h2>
+<h2 align="left">🔥 Languages-Tools 🔥</h2>
 <br>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,discord,cmake,bash,qt" /><br>
     <img src="https://skillicons.dev/icons?i=visualstudio,github,githubactions,linux,vscode" />
 
   </a>
 </p>
-<h2 align="center"> ⌛ Learning ⌛ </h2>
+<h2 align="left"> ⌛ Learning ⌛ </h2>
 <br>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=solidity,googlecloud" />
   </a>
@@ -53,7 +53,7 @@
 <hr>
 
 <!--
-<div align="center">
+<div align="left">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/abdallahkhairy/abdallahkhairy/blob/output/github-contribution-grid-snake.svg">
@@ -63,9 +63,9 @@
 </div>
   <hr>
 -->
-<h2 align="center">⚡ Statistics ⚡</h2>
-<p align=center>
-  <div align=center>
+<h2 align="left">⚡ Statistics ⚡</h2>
+<p align=left>
+  <div align=left>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 height = 300 src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahkhairy&theme=react&border_color=eeeee4&hide_border=false" alt="zumrudu-anka" />
     </a>
@@ -74,7 +74,7 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+  <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=390 height = 300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhairy&hide=c%23,powershell,Mathematica,Ruby,SWIG,Objective-C,Objective-C%2b%2b&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=eeeee4&hide_border=false" />
     </a>
@@ -87,7 +87,7 @@
 <br><br><br><br><br><br><br><br><br>
 <hr>
 
-<h2 align="center">
+<h2 align="left">
   <a href="https://github.com/abdallahkhairy?tab=repositories" title="Show Repositories">👨‍💻 Repositories 👨‍💻</a>
 </h2>
 
