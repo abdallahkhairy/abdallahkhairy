@@ -11,19 +11,29 @@
   </a>
 </h1>
 
+<div align="left"> 
+    <br>
+    <p align="left">
+      Hi, I'm Abdullah, Software Engineer </>,  Learner 👨‍💻, Footballer ⚽ and  gamer 🦸‍♂️ from Egypt
+      <br>
+      <br>
+      🎓 Graduated from <a href="https://www.daiict.ac.in/"> ASU </a>
+      <br>
+      💻 I love to learn about new technologies and try it.
+      <br>
+      🧑‍💼 Currently Studying Embedded Systems, AUTORSAR, Modern Cpp ,Datastructures And Algorithms
+    </p>
+</div> 
 
-<br>
-<p align="left">
-  Hi, I'm Abdullah, Software Engineer </>,  Learner 👨‍💻, Footballer ⚽ and  gamer 🦸‍♂️ from Egypt
-  <br>
-  <br>
-  🎓 Graduated from <a href="https://www.daiict.ac.in/"> ASU </a>
-  <br>
-  💻 I love to learn about new technologies and try it.
-  <br>
-  🧑‍💼 I’m currently Embedded Systems, AUTORSAR, Modern Cpp ,Datastructures And Algorithms
-  <br>
-</p>
+
+<div align=left>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=485 height = 300 src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahkhairy&theme=neon&border_color=eeeee4&hide_border=false" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=485 height = 300 src="https://github-readme-stats.vercel.app/api?username=abdallahkhairy&show_icons=true&theme=neon&border_color=eeeee4&hide_border=false" />
+    </a>
+  </div>
 
 <div align="left"> 
     <a href = "mailto:abdullahkhairy98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,17 +42,16 @@
     <a href="https://www.youtube.com/@abdullahkhairy98" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-<hr>
+<div align="left"> 
 <h2 align="left">🔥 Languages-Tools 🔥</h2>
-<br>
-<p align="left">
-  <a href="https://skillicons.dev">
+        <br>
     <img src="https://skillicons.dev/icons?i=c,cpp,python,discord,cmake,bash,qt" /><br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,github,githubactions,linux,vscode" />
-
-  </a>
-<hr>
-
+    <img src="https://skillicons.dev/icons?i=visualstudio,github,githubactions,linux,vscode" /><br>
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=300  height = 400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhairy&hide=c%23,powershell,Mathematica,SWIG,Ruby,Objective-C,Objective-C%2b%2b&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=pie&border_color=eeeee4&hide_border=false" />
+    </a>
+      </div>
 <!--
 <div align="left">
   <h2>🐍 Snake eating my contribution 🐍</h2>
@@ -54,30 +63,7 @@
 </div>
   <hr>
 -->
-<h2 align="left">⚡ Statistics ⚡</h2>
-<p align=left>
-  <div align=left>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 height = 300 src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahkhairy&theme=react&border_color=eeeee4&hide_border=false" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 height = 300 src="https://github-readme-stats.vercel.app/api?username=abdallahkhairy&show_icons=true&theme=react&border_color=eeeee4&hide_border=false" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=left>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 height = 300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhairy&hide=c%23,powershell,Mathematica,Ruby,SWIG,Objective-C,Objective-C%2b%2b&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=eeeee4&hide_border=false" />
-    </a>
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390  height = 300 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhairy&hide=c%23,powershell,Mathematica,SWIG,Ruby,Objective-C,Objective-C%2b%2b&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=donut&border_color=eeeee4&hide_border=false" />
-    </a>
-  </div>
-</p>
-<br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br>
-<hr>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="left">
   <a href="https://github.com/abdallahkhairy?tab=repositories" title="Show Repositories">👨‍💻 Repositories 👨‍💻</a>
 </h2>
