@@ -17,7 +17,7 @@
       Hi, I'm Abdullah, Software Engineer </>,  Learner 👨‍💻, Footballer ⚽ and  gamer 🦸‍♂️ from Egypt
       <br>
       <br>
-      🎓 Graduated from <a href="https://www.daiict.ac.in/"> ASU </a>
+      🎓 Graduated from <a href="https://eng.asu.edu.eg/"> ASU </a>
       <br>
       💻 I love to learn about new technologies and try it.
       <br>
