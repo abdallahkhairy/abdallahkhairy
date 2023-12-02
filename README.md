@@ -28,10 +28,10 @@
 
 <div align=left>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=300 height = 300 src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahkhairy&theme=neon&border_color=eeeee4&hide_border=false" alt="zumrudu-anka" />
+      <img align="left" width=450 height = 300 src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahkhairy&theme=neon&border_color=eeeee4&hide_border=false" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=300 height = 300 src="https://github-readme-stats.vercel.app/api?username=abdallahkhairy&show_icons=true&theme=neon&border_color=eeeee4&hide_border=false" />
+      <img align="right" width=450 height = 300 src="https://github-readme-stats.vercel.app/api?username=abdallahkhairy&show_icons=true&theme=neon&border_color=eeeee4&hide_border=false" />
     </a>
   </div>
 
