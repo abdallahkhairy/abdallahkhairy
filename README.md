@@ -14,7 +14,7 @@
 <div align="left"> 
     <br>
     <p align="left">
-      Hi, I'm Abdullah, Software Engineer </>,  Learner 👨‍💻, Footballer ⚽ and  gamer 🦸‍♂️ from Egypt
+      Hi, I'm Abdullah, Software Engineer </>,  Learner 👨‍💻, Footballer ⚽ and  Gamer 🦸‍♂️ from Egypt
       <br>
       <br>
       🎓 Graduated from <a href="https://eng.asu.edu.eg/"> ASU </a>
