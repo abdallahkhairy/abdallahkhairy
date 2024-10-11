@@ -33,7 +33,8 @@
       <img align="right" width=400 height = 300 src="https://github-readme-stats.vercel.app/api?username=abdallahkhairy&show_icons=true&theme=neon&border_color=eeeee4&hide_border=false" />
     </a>
   
-
+</div>
+<div align=left>
  <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=300  height = 400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhairy&hide=c%23,powershell,Mathematica,SWIG,Ruby,Objective-C,Objective-C%2b%2b&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=pie&border_color=eeeee4&hide_border=false" />
     </a>
