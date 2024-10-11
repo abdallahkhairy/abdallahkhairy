@@ -32,7 +32,12 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=400 height = 300 src="https://github-readme-stats.vercel.app/api?username=abdallahkhairy&show_icons=true&theme=neon&border_color=eeeee4&hide_border=false" />
     </a>
-  </div>
+  
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=300  height = 400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhairy&hide=c%23,powershell,Mathematica,SWIG,Ruby,Objective-C,Objective-C%2b%2b&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=pie&border_color=eeeee4&hide_border=false" />
+    </a>
+      </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -49,22 +54,16 @@
     <img src="https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
      <br>
     <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=300  height = 400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhairy&hide=c%23,powershell,Mathematica,SWIG,Ruby,Objective-C,Objective-C%2b%2b&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=pie&border_color=eeeee4&hide_border=false" />
-    </a>
-      </div>
+   
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="left">
