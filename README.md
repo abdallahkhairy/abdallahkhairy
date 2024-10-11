@@ -42,25 +42,30 @@
     <a href="https://discordapp.com/users/441035344784261131" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/@abdullahkhairy98" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-
+  
 <div align="left"> 
 <h2 align="left">🔥 Languages-Tools 🔥</h2>
-     
+    <br>
+    <img src="https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+     <br>
+    <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=300  height = 400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhairy&hide=c%23,powershell,Mathematica,SWIG,Ruby,Objective-C,Objective-C%2b%2b&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=pie&border_color=eeeee4&hide_border=false" />
     </a>
       </div>
-<!--
-<div align="left">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/abdallahkhairy/abdallahkhairy/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
-  <hr>
--->
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="left">
   <a href="https://github.com/abdallahkhairy?tab=repositories" title="Show Repositories">👨‍💻 Repositories 👨‍💻</a>
