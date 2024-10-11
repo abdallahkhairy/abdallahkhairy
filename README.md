@@ -66,8 +66,6 @@
      <br>
     <br>
    
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="left">
   <a href="https://github.com/abdallahkhairy?tab=repositories" title="Show Repositories">👨‍💻 Repositories 👨‍💻</a>
 </h2>
